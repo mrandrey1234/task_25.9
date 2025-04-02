@@ -93,7 +93,6 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `created_at`, `updated_at`, `user_hash`) VALUES
-(4, 'Andrei', 'stroickinandrei@yandex.ru', '$2y$10$FMlFYpLOaOnYLVOuSKWMlOAJGlcNr2325P.50jcXR2gA.9XropIPK', '2025-03-26 15:15:40', '2025-03-30 18:47:23', '08f0abc69a177512ee7e5166f6eedab2'),
 (5, 'Andrei', 'andrei@yandex.ru', '$2y$10$gX8g6rANpxPAv46htoSgJ.cIYaLA9VpRm8VAgPpYWXxIv77pt.eCy', '2025-03-28 15:17:10', '2025-03-28 15:24:53', '3a3b51a7b612dbc69f9c8613dec264be'),
 (6, 'Антон', 'and@yandex.ru', '$2y$10$jmZQFjI24CAnCperPRFnVOvte/A2XpkU5gZgznKZGTBNjFvCHNlS2', '2025-03-30 17:37:05', '2025-03-30 17:37:15', '95a526279e0fb3f717a4455622339e83');
 
